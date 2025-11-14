@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'storm',en,Hazard,#ff0000,#ff0000,2,0.7
-'beaufort scale',en,Hazard,#ff0000,#ff0000,2,0.6
+'beaufort scale',en,Hazard,#ff0000,#ff0000,1,0.510000195
 'storm prevention',en,Adaptation,#0000ff,#0000ff,2,0.5
 'storm cause',en,Causes,#00ffff,#00ffff,2,0.5
 'storm warning',en,Mitigation,#00ff00,#00ff00,2,0.5
